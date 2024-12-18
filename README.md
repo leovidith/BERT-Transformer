@@ -50,5 +50,3 @@ The following confusion matrix shows the performance of the BERT model in classi
 ## Conclusion
 
 The BERT model for text classification successfully classifies text into predefined categories. With an accuracy of 51% and balanced precision and recall across categories, the model shows promise for NLP tasks. Future improvements can include fine-tuning the model further or experimenting with other transformer-based architectures for better performance.
-
-Let me know if you need any further adjustments!
